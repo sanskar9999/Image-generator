@@ -92,7 +92,7 @@ const Home = () => {
           id="prompt"
           value={promptQuery}
           onChange={handleSearch}
-          placeholder="A plush toy robot sitting against a yellow wall"
+          placeholder="Isometric Atlantis city,great architecture with columns, great details, ornaments,seaweed, blue ambiance, 3D cartoon style, soft light, 45° view"
           className="promptInput"
         />
         <button onClick={handleSurpriseMe}>Surprise Me</button>
